@@ -1,1 +1,2 @@
-# newrepo-demo
+This is my first repositery
+Author = Raja# newrepo-demo
